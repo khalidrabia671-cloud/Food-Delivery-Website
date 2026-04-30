@@ -1,0 +1,58 @@
+[
+
+    {
+        "id": 1,
+        "name": "Double Beef Burger",
+        "price": "$200",
+        "image":"burger.png"
+    },
+     {
+        "id": 2,
+        "name": "Chicken-Roll",
+        "price": "$100",
+        "image":"chicken-roll.png"
+    },
+     {
+        "id": 3,
+        "name": "Special Fried Chicken",
+        "price": "$70",
+        "image":"fried-chicken.png"
+    },
+     {
+        "id": 4,
+        "name": "Club Sandwich",
+        "price": "$9.8",
+        "image":"sandwich.png"
+    },
+     {
+        "id": 5,
+        "name": "Italian Spaghetti",
+        "price": "$90.6",
+        "image":"spaghetti.png"
+    },
+     {
+        "id": 6,
+        "name": "Chicken Tandoori Cheez Pizza",
+        "price": "$250",
+        "image":"pizza.png"
+    },
+     {
+        "id": 7,
+        "name": "Spring Roll",
+        "price": "$5.7",
+        "image":"spring-roll.png"
+    },
+     {
+        "id": 8,
+        "name": "Lasagna",
+        "price": "$60",
+        "image":"lasagna.png"
+    },
+    {
+        "id": 9,
+        "name": "Zinger Shawrma",
+        "price": "$40",
+        "image":"shawarma.png"
+    }
+
+]
